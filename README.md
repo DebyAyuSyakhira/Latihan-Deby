@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+Ini latihan buat git pull dan push
+
+* hehe
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
