@@ -8,7 +8,7 @@ void main() {
   runApp(
     GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Application latihannnnnnn",
+      title: "Application latihannnnnnn AWLKWLWLWLWLWWOLSJAOIDJ",
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     ),
