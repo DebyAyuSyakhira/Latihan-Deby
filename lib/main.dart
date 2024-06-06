@@ -8,9 +8,11 @@ void main() {
   runApp(
     GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Deby Ayu Syakhira Seorang Pengrajin Kayu Yang Handal",
+      title: "Boonk itu",
       initialRoute: AppPages.INITIAL,
       getPages: AppPages.routes,
     ),
   );
 }
+
+
